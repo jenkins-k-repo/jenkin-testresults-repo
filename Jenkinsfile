@@ -7,7 +7,7 @@ pipeline {
     }
 
       tools {
-        maven 'Maven 3'  // Define your Maven installation name from Jenkins Global Tool Configuration
+        maven 'Maven 4'  // Define your Maven installation name from Jenkins Global Tool Configuration
     }
 
    
